@@ -1,0 +1,10 @@
+páginas trabajadas:
+index.html
+pages/web.html
+pages/software.html
+
+Link repo Github
+https://github.com/gmasrih/entrega3
+
+Pages Github
+gmasrih.github.io/entrega3/
